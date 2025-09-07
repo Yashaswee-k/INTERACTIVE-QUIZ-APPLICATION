@@ -1,17 +1,19 @@
 # INTERACTIVE-QUIZ-APPLICATION
 
+COMPANY:CODTECH IT SOLUTIONS PVT.LTD
 
+NAME:YASHASWEE KANDULA
 
+INTERN ID:CT08DZ610
 
+DOMAIN:FRONTEND WEB DEVELOPMENT
 
+DURATION:4 WEEKS
 
+MENTOR:Neela Santhosh
 
-
-
-
-
-
-
+Interactive Quiz Application
+This project is a responsive and engaging quiz app built with HTML, CSS, and JavaScript. It features dynamic question rendering, score tracking, and interactive UI elements to enhance the learning experience. Designed for smooth performance and user-friendly interaction.
 
 OUTPUT:
 
